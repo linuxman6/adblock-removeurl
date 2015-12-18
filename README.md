@@ -14,9 +14,13 @@
 **紹介**  
 　Adblock用自分専用ブロックリスト。  
 
-　下のURLを購読すれば利用できます。  
+　下のURLを購読すれば利用できます。 
+
+　リンク(a half=)削除 
 　<https://raw.githubusercontent.com/linuxman6/adblock-removeurl/master/adblock_removeurl.txt>  
 
+　通常ブロック
+　<https://raw.githubusercontent.com/linuxman6/adblock-removeurl/master/adblock_blockurl.txt> 
 
 **免責事項**  
 　このリストを使用して起こったいかなるトラブルも責任を負いかねます。  
