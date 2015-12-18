@@ -1,4 +1,4 @@
-! Title: adblock_removeurl
+! Title: adblock_blockurl
 ! Homepage: 
 ! Version: 201512180000
 !
