@@ -1,0 +1,19 @@
+! Title: adblock_removeurl
+! Homepage: 
+! Version: 201512180000
+!
+!
+! **** リンク削除 ****
+!
+##a[href*=".esuteru.com"]
+##a[href*="jin115.com"]
+##a[href*="yaraon.blog109.fc2.com"]
+!
+!
+! **** 通常ブロック ****
+!
+||.esuteru.com
+||jin115.com
+||yaraon.blog109.fc2.com
+
+
