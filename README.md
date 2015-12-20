@@ -1,10 +1,10 @@
  ====================================================================  
 
 【ソ フ ト名】 adblock-removeurl  
-【バージョン】 01512180000  
+【バージョン】 ----  
 【開発言語　】 ----  
-【公開開始日】 2015/12/18  
-【配布File　】 adblock_removeurl.txt  
+【公開開始日】 2015/12/18-  
+【配布File　】 adblock_removeurl.txt,adblock_blockurl.txt  
 【開発環境　】 Windows 10 64bit  
 【ライセンス】 NYSL Version 0.9982  
  
