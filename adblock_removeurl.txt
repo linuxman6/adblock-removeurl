@@ -1,6 +1,6 @@
 ! Title: adblock_removeurl
 ! Homepage: 
-! Version: 201512180000
+! Version: 201512290000
 !
 !
 ! **** リンク削除 ****
@@ -8,5 +8,6 @@
 ##a[href*=".esuteru.com"]
 ##a[href*="jin115.com"]
 ##a[href*="yaraon.blog109.fc2.com"]
+##a[href*="alfalfalfa.com"]
 
 
