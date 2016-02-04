@@ -9,6 +9,6 @@
 ||jin115.com
 ||yaraon.blog109.fc2.com
 ||alfalfalfa.com
-www.4gamer.net###digest_height
-www.4gamer.net###background_alpha
+||4gamer.net/img/*_background_
+||4gamer.net/img/*_header_
 
