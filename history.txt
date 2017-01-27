@@ -1,4 +1,8 @@
 履歴
+<<<<<<< HEAD
+2017012700 adblock_blockurl更新。4gamerのlineボタンを追加
+=======
+>>>>>>> bc65059f812f4d143097d555bed2ed39c8c58af2
 1602060031 adblock_blockurl更新。4gamerの背景とheader画像追加
 1512121904 1件追加
 1512120000 4gamerの初回閲覧時の前画面広告を追加

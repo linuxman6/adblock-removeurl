@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201512290000
+! Version: 201701270000
 !
 !
 ! **** 通常ブロック ****
@@ -11,4 +11,8 @@
 ||alfalfalfa.com
 ||4gamer.net/img/*_background_
 ||4gamer.net/img/*_header_
+<<<<<<< HEAD
+||4gamer.net/img/button_
+=======
+>>>>>>> bc65059f812f4d143097d555bed2ed39c8c58af2
 
