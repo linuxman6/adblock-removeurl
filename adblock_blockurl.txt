@@ -13,6 +13,5 @@
 ||4gamer.net/img/*_background_
 ||4gamer.net/img/*_header_
 ||4gamer.net/img/button_
-
-
+||.outbrain.com
 
