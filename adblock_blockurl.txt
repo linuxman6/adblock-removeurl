@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201701270000
+! Version: 201704130000
 !
 !
 ! **** 通常ブロック ****
@@ -14,4 +14,4 @@
 ||4gamer.net/img/*_header_
 ||4gamer.net/img/button_
 ||.outbrain.com
-
+||www.facebook.com/plugins/comments.php
