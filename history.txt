@@ -1,4 +1,5 @@
 履歴
+201704130001 adblock_blockurl更新。softcollectionのバナー追加
 2017041300 adblock_blockurl更新。facebookのコメント欄追加
 2017033100 adblock_blockurl更新。outbrain追加
 2017032400 adblock_removeurl更新。 naverまとめを追加
