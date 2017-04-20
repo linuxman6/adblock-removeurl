@@ -1,18 +1,46 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201704130001
+! Version: 201704200001
 !
 !
 ! **** 通常ブロック ****
 !
+!
+!! Jank !!
 ||.esuteru.com
 ||jin115.com
 ||yaraon.blog109.fc2.com
 ||alfalfalfa.com
 ||matome.naver.jp
+!
+!
+!! 広告 !!
 ||4gamer.net/img/*_background_
 ||4gamer.net/img/*_header_
 ||4gamer.net/img/button_
 ||.outbrain.com
 ||www.facebook.com/plugins/comments.php
 ||softcollection.dyndns.org/top/bn/*.*
+!
+!
+!! ボタン類 !!
+feedly.com##.primary
+srad.jp###article-bottom
+!
+!
+!! Yahoo系 !!
+||s.yimg.jp/images/*/bnr/*/*
+yahoo.co.jp###msthdtp
+yahoo.co.jp##.msthdtxt
+yahoo.co.jp###rbnr
+yahoo.co.jp###yjImgSLink
+yahoo.co.jp###pos-s
+yahoo.co.jp##.footeLinkPromo
+yahoo.co.jp###toptxt
+yahoo.co.jp###prtfolio
+yahoo.co.jp##.textLink
+yahoo.co.jp###chrgcont
+yahoo.co.jp###genre
+yahoo.co.jp##.cafxBanner
+yahoo.co.jp###main > p:nth-of-type(1)
+yahoo.co.jp##.fxRecommend
