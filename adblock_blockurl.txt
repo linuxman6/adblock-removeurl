@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201704200001
+! Version: 201704210001
 !
 !
 ! **** 通常ブロック ****
@@ -24,7 +24,7 @@
 !
 !
 !! ボタン類 !!
-feedly.com##.primary
+!feedly.com##.primary
 srad.jp###article-bottom
 !
 !
