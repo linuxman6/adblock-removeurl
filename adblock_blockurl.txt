@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201704210001
+! Version: 201704250001
 !
 !
 ! **** 通常ブロック ****
@@ -21,6 +21,7 @@
 ||.outbrain.com
 ||www.facebook.com/plugins/comments.php
 ||softcollection.dyndns.org/top/bn/*.*
+||www.gdm.or.jp/bimg/*
 !
 !
 !! ボタン類 !!
@@ -30,6 +31,7 @@ srad.jp###article-bottom
 !
 !! Yahoo系 !!
 ||s.yimg.jp/images/*/bnr/*/*
+||s.yimg.jp/images/*/*/*/*/images/*
 yahoo.co.jp###msthdtp
 yahoo.co.jp##.msthdtxt
 yahoo.co.jp###rbnr
@@ -44,3 +46,7 @@ yahoo.co.jp###genre
 yahoo.co.jp##.cafxBanner
 yahoo.co.jp###main > p:nth-of-type(1)
 yahoo.co.jp##.fxRecommend
+yahoo.co.jp##.yjFXS.ymuiBodyBorder.ymuiContainer
+yahoo.co.jp###sub > .ymui3DHeader.ymuiHeaderBGLight:nth-of-type(3)
+yahoo.co.jp##.marB10.ultra
+yahoo.co.jp##.ymui3DHeader.ymuiHeaderBGLight:nth-of-type(2)

@@ -1,4 +1,5 @@
 履歴
+201704210001 adblock_blockurl更新。yahoo系を調整。エルミタージュ追加。
 201704210001 adblock_blockurl更新。feedlyを一時無効
 201704200001 adblock_blockurl更新。yahoo系を追加、feedlyのバナーを追加、スラドのボタン類を追加
 201704130001 adblock_blockurl更新。softcollectionのバナー追加
