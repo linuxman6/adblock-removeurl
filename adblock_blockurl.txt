@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201704250001
+! Version: 201704260001
 !
 !
 ! **** 通常ブロック ****
@@ -50,3 +50,4 @@ yahoo.co.jp##.yjFXS.ymuiBodyBorder.ymuiContainer
 yahoo.co.jp###sub > .ymui3DHeader.ymuiHeaderBGLight:nth-of-type(3)
 yahoo.co.jp##.marB10.ultra
 yahoo.co.jp##.ymui3DHeader.ymuiHeaderBGLight:nth-of-type(2)
+yahoo.co.jp##.TSbottomW2A
