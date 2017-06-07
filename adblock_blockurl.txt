@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201705020001
+! Version: 201706070001
 !
 !
 ! **** 通常ブロック ****
@@ -55,3 +55,4 @@ yahoo.co.jp##.marB10:nth-of-type(2)
 yahoo.co.jp##.difDevice > ul
 yahoo.co.jp###qurioRecommend
 yahoo.co.jp###rctvpgm
+yahoo.co.jp###wrapper > div:nth-of-type(4)

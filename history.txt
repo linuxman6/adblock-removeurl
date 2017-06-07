@@ -1,4 +1,5 @@
 履歴
+201706070001 adblock_blockurl更新。yahoo系を調整。
 201705020001 adblock_blockurl更新。yahoo系を調整。
 201704280001 adblock_blockurl更新。yahoo系を調整。
 201704260001 adblock_blockurl更新。yahoo系を調整。
