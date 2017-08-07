@@ -10,4 +10,4 @@
 ##a[href*="yaraon.blog109.fc2.com"]
 ##a[href*="alfalfalfa.com"]
 ##a[href*="matome.naver.jp"]
-
+##a[href*="pinky-media.jp"]
