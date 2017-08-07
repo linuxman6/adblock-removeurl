@@ -1,6 +1,6 @@
 ! Title: adblock_removeurl
 ! Homepage: 
-! Version: 201703240000
+! Version: 201708070001
 !
 !
 ! **** リンク削除 ****
