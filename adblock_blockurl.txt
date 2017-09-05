@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201708070002
+! Version: 201709050001
 !
 !
 ! **** 通常ブロック ****
@@ -22,6 +22,8 @@
 ||www.facebook.com/plugins/comments.php
 ||softcollection.dyndns.org/top/bn/*.*
 ||www.gdm.or.jp/bimg/*
+||www.gamespark.jp###MDL_window
+||www.gamespark.jp###MDL_overlay
 !
 !
 !! ボタン類 !!
