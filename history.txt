@@ -1,4 +1,5 @@
 履歴
+201709060001 adblock_blockurl更新。書式のミスを修正。
 201709050001 adblock_blockurl更新。gamesparkの全画面広告を追加。
 201708070001 adblock_blockurl,adblock_removeurl更新。pinkyを追加。
 201706070001 adblock_blockurl更新。yahoo系を調整。
