@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201802070001
+! Version: 201802070002
 !
 !
 ! **** 通常ブロック ****
@@ -65,3 +65,4 @@ yahoo.co.jp###wrapper > div:nth-of-type(4)
 !! amazonお届け先 !!
 www.amazon.co.jp###contextualIngressPtLabel_deliveryShortLine
 www.amazon.co.jp##.a-declarative.a-popover-trigger.nav-a-2.nav-a
+www.amazon.co.jp###unifiedLocation_feature_div
