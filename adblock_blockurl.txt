@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201802100001
+! Version: 201806090001
 !
 !
 ! **** 通常ブロック ****
@@ -15,9 +15,6 @@
 ||pinky-media.jp
 !
 !! 広告 !!
-||4gamer.net/img/*_background_
-||4gamer.net/img/*_header_
-||4gamer.net/img/button_
 ||.outbrain.com
 ||www.facebook.com/plugins/comments.php
 ||softcollection.dyndns.org/top/bn/*.*
@@ -26,6 +23,11 @@ www.gamespark.jp###MDL_window
 www.gamespark.jp###MDL_overlay
 www.gamer.ne.jp/*/back.jpg
 i2.gamebiz.jp/images/1600x800*.jpg
+japan.zdnet.com###social_bkm_wrap_bottom
+japan.zdnet.com###article_under_nllink
+www.itmedia.co.jp###masterSocialbuttonBtm
+www.itmedia.co.jp###colBoxSubcolJobboard
+impress.co.jp###social-under
 !
 !
 !! ボタン類 !!
@@ -71,6 +73,16 @@ www.amazon.co.jp###contextualIngressPt
 !
 !! honto !!
 honto.jp##.stMyMenu
-
-
+!
+!
+!! 4gamer !!
+||4gamer.net/img/*_background_
+||4gamer.net/img/*_header_
+||4gamer.net/img/button_
+www.4gamer.net##.news_thumb
+www.4gamer.net##.line
+www.4gamer.net##.medipartner
+www.4gamer.net###SOCIALBOOKMARK_BAR
+www.4gamer.net###SOCIALBOOKMARK_BOTTOM_BAR
+www.4gamer.net##.V2_utility
 

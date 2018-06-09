@@ -1,4 +1,5 @@
 履歴
+201806090001 adblock_blockurl更新。4gamerを中心にソーシャル系を追加
 201802100001 adblock_blockurl更新。amazonのお届け先のピンアイコンを追加。hontoのユーザ名を追加。
 201802070002 adblock_blockurl更新。amazonのお届け先（右側）を追加。
 201709070001 adblock_blockurl更新。amazonのお届け先を追加。
