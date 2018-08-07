@@ -30,5 +30,5 @@
 ======================================================================   
 by Linuxman（りなくす）  
 clearorzhm@gmail.com  
-[https://twitter.com/linuxman6](https://twitter.com/linuxman6) 
+[clear.orz site](https://sites.google.com/view/clearorz/) 
 
