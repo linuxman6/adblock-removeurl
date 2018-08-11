@@ -1,4 +1,5 @@
 履歴
+201808110001 4gamerの右下の動画記事ポップアップを追加
 201808070001 niconicoの各種要素を追加
 201806090001 adblock_blockurl更新。4gamerを中心にソーシャル系を追加
 201802100001 adblock_blockurl更新。amazonのお届け先のピンアイコンを追加。hontoのユーザ名を追加。

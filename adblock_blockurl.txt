@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201808070001
+! Version: 201808110001
 !
 !
 ! **** 通常ブロック ****
@@ -85,6 +85,7 @@ www.4gamer.net##.medipartner
 www.4gamer.net###SOCIALBOOKMARK_BAR
 www.4gamer.net###SOCIALBOOKMARK_BOTTOM_BAR
 www.4gamer.net##.V2_utility
+www.4gamer.net###NOTIFY_EVENT
 
 !! nicovideo !!
 www.nicovideo.jp##.VideoMenuContainer
