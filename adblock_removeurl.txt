@@ -1,6 +1,6 @@
 ! Title: adblock_removeurl
 ! Homepage: 
-! Version: 201708070002
+! Version: 201810010001
 !
 !
 ! **** リンク削除 ****
@@ -11,3 +11,5 @@
 ##a[href*="alfalfalfa.com"]
 ##a[href*="matome.naver.jp"]
 ##a[href*="pinky-media.jp"]
+##a[href*="livedoor.com"]
+
