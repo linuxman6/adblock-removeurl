@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201808110001
+! Version: 201901040001
 !
 !
 ! **** 通常ブロック ****
@@ -13,6 +13,7 @@
 ||alfalfalfa.com
 ||matome.naver.jp
 ||pinky-media.jp
+||netgeek.biz
 !
 !! 広告 !!
 ||.outbrain.com

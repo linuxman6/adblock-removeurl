@@ -1,6 +1,6 @@
 ! Title: adblock_removeurl
 ! Homepage: 
-! Version: 201810010001
+! Version: 201901040001
 !
 !
 ! **** リンク削除 ****
@@ -12,4 +12,4 @@
 ##a[href*="matome.naver.jp"]
 ##a[href*="pinky-media.jp"]
 ##a[href*="livedoor.com"]
-
+##a[href*="netgeek.biz"]
