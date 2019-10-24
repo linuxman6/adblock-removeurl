@@ -1,4 +1,5 @@
 履歴
+201910240001 adblock_removeurl更新。yahoo系を調整
 201901040001 adblock_removeurl更新。netgeekを追加
 201810010001 adblock_removeurl更新。livedoorを追加。
 201808110001 4gamerの右下の動画記事ポップアップを追加
