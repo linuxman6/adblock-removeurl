@@ -1,4 +1,5 @@
 履歴
+202005120001 adblock_removeurl更新。企業系攻略サイトを追加
 202005120002 adblock_blockurl更新。yahoo系を追加
 202005120001 adblock_blockurl更新。yahoo系を追加
 201910240001 adblock_blockurl更新。yahoo系を調整

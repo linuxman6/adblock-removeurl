@@ -1,6 +1,6 @@
 ! Title: adblock_removeurl
 ! Homepage: 
-! Version: 201901040001
+! Version: 202005120001
 !
 !
 ! **** リンク削除 ****
@@ -13,3 +13,13 @@
 ##a[href*="pinky-media.jp"]
 ##a[href*="livedoor.com"]
 ##a[href*="netgeek.biz"]
+##a[href*="game8.jp"]
+##a[href*="altema.jp"]
+##a[href*="gamy.jp"]
+##a[href*="gamewith.jp"]
+##a[href*="appmedia.jp"]
+##a[href*="kamigame.jp"]
+##a[href*="gamerch.com"]
+
+
+
