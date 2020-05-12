@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 201910240001
+! Version: 202005120002
 !
 !
 ! **** 通常ブロック ****
@@ -75,6 +75,13 @@ tv.yahoo.co.jp##.specialFeatureTop
 tv.yahoo.co.jp##.publicRatingNew2
 tv.yahoo.co.jp##.yjMainGrid > div.mb15:nth-of-type(8)
 tv.yahoo.co.jp##.yjMainGrid > .clearfix.mb15
+news.yahoo.co.jp###newsFeed
+news.yahoo.co.jp##.liveStream_contents
+news.yahoo.co.jp###yjnFixableArea > .yjnSub_list
+news.yahoo.co.jp##.footerNavigation
+news.yahoo.co.jp###yjSLink
+news.yahoo.co.jp##.yjnHeader_sub_cat > li:nth-of-type(5)
+news.yahoo.co.jp##.yjnHeader_sub_cat > li:nth-of-type(6)
 !
 !
 !! amazon !!
