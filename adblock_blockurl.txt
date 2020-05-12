@@ -64,6 +64,17 @@ yahoo.co.jp###qurioRecommend
 yahoo.co.jp###rctvpgm
 yahoo.co.jp###wrapper > div:nth-of-type(4)
 yahoo.co.jp##.AD__SS
+tv.yahoo.co.jp##.mb15.topEmbed
+tv.yahoo.co.jp##.mb15.recommended
+tv.yahoo.co.jp###sub
+tv.yahoo.co.jp###mod_publicRatingNow
+tv.yahoo.co.jp##.yjMainGrid > .mb5.hd2
+tv.yahoo.co.jp##.clearfix.topLink
+tv.yahoo.co.jp##.mb10.searchByGenre
+tv.yahoo.co.jp##.specialFeatureTop
+tv.yahoo.co.jp##.publicRatingNew2
+tv.yahoo.co.jp##.yjMainGrid > div.mb15:nth-of-type(8)
+tv.yahoo.co.jp##.yjMainGrid > .clearfix.mb15
 !
 !
 !! amazon !!
