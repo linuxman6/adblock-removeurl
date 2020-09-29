@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 202005120002
+! Version: 202009290001
 !
 !
 ! **** 通常ブロック ****
@@ -29,6 +29,7 @@ japan.zdnet.com###article_under_nllink
 www.itmedia.co.jp###masterSocialbuttonBtm
 www.itmedia.co.jp###colBoxSubcolJobboard
 impress.co.jp###social-under
+forest.watch.impress.co.jp###forest-amazon-ranking
 !
 !
 !! ボタン類 !!
