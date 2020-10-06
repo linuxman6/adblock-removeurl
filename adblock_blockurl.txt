@@ -76,7 +76,6 @@ tv.yahoo.co.jp##.specialFeatureTop
 tv.yahoo.co.jp##.publicRatingNew2
 tv.yahoo.co.jp##.yjMainGrid > div.mb15:nth-of-type(8)
 tv.yahoo.co.jp##.yjMainGrid > .clearfix.mb15
-news.yahoo.co.jp###newsFeed
 news.yahoo.co.jp##.liveStream_contents
 news.yahoo.co.jp###yjnFixableArea > .yjnSub_list
 news.yahoo.co.jp##.footerNavigation

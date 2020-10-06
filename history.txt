@@ -1,4 +1,5 @@
 履歴
+202010060001 adblock_blockurl更新。YahooのnewsFeedを削除
 202009290001 adblock_blockurl更新。窓の杜のamazon広告を追加
 202005120001 adblock_removeurl更新。企業系攻略サイトを追加
 202005120002 adblock_blockurl更新。yahoo系を追加
