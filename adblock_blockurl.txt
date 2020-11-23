@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 202009290001
+! Version: 202011230001
 !
 !
 ! **** 通常ブロック ****
@@ -33,7 +33,7 @@ forest.watch.impress.co.jp###forest-amazon-ranking
 !
 !
 !! ボタン類 !!
-!feedly.com##.primary
+feedly.com###barsFX
 srad.jp###article-bottom
 !
 !
