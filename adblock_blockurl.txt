@@ -34,6 +34,7 @@ forest.watch.impress.co.jp###forest-amazon-ranking
 !
 !! ボタン類 !!
 feedly.com##.small.primary.pro
+feedly.com###topHeaderBarFX
 srad.jp###article-bottom
 !
 !
