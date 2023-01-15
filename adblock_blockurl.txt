@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 202011230002
+! Version: 202301150001
 !
 !
 ! **** 通常ブロック ****
@@ -14,6 +14,7 @@
 ||matome.naver.jp
 ||pinky-media.jp
 ||netgeek.biz
+||brain-book.net
 !
 !! 広告 !!
 ||.outbrain.com

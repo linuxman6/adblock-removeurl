@@ -1,4 +1,5 @@
 履歴
+202301150001    [update]adblock_removeurl、adblock_blockurl更新。1件追加
 202011230002 adblock_blockurl更新。feedlyの調整
 202011230001 adblock_blockurl更新。feedlyの調整
 202010060001 adblock_blockurl更新。YahooのnewsFeedを削除
