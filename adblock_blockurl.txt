@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 202301150001
+! Version: 202301280001
 !
 !
 ! **** 通常ブロック ****
@@ -15,6 +15,7 @@
 ||pinky-media.jp
 ||netgeek.biz
 ||brain-book.net
+||gamemix.jp
 !
 !! 広告 !!
 ||.outbrain.com

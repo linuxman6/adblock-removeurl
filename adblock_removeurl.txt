@@ -1,6 +1,6 @@
 ! Title: adblock_removeurl
 ! Homepage: 
-! Version: 202301150001
+! Version: 202301280001
 !
 !
 ! **** リンク削除 ****
@@ -21,7 +21,7 @@
 ##a[href*="kamigame.jp"]
 ##a[href*="gamerch.com"]
 ##a[href*="brain-book.net"]
-
+##a[href*="gamemix.jp"]
 
 
 
