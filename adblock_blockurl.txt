@@ -1,6 +1,6 @@
 ! Title: adblock_blockurl
 ! Homepage: 
-! Version: 202301280001
+! Version: 202304260001
 !
 !
 ! **** 通常ブロック ****
@@ -16,6 +16,8 @@
 ||netgeek.biz
 ||brain-book.net
 ||gamemix.jp
+||rocketnews24.com
+
 !
 !! 広告 !!
 ||.outbrain.com

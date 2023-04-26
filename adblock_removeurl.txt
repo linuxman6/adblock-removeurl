@@ -1,6 +1,6 @@
 ! Title: adblock_removeurl
 ! Homepage: 
-! Version: 202301280001
+! Version: 202304260001
 !
 !
 ! **** リンク削除 ****
@@ -22,6 +22,7 @@
 ##a[href*="gamerch.com"]
 ##a[href*="brain-book.net"]
 ##a[href*="gamemix.jp"]
+##a[href*="rocketnews24.com"]
 
 
 
